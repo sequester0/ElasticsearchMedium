@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticsearchMedium.API", "ElasticsearchMedium.API\ElasticsearchMedium.API.csproj", "{92D6991C-452C-4363-B092-3068054DD1B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticsearchMedium.Core", "ElasticsearchMedium.Core\ElasticsearchMedium.Core.csproj", "{BB7CB216-28D6-4629-B2A9-76D3371DFC55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticsearchMedium.Infrastructure", "ElasticsearchMedium.Infrastructure\ElasticsearchMedium.Infrastructure.csproj", "{6A5ECC67-1F7E-4F26-A189-94D1F6C0AAF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92D6991C-452C-4363-B092-3068054DD1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D6991C-452C-4363-B092-3068054DD1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D6991C-452C-4363-B092-3068054DD1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D6991C-452C-4363-B092-3068054DD1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7CB216-28D6-4629-B2A9-76D3371DFC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7CB216-28D6-4629-B2A9-76D3371DFC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7CB216-28D6-4629-B2A9-76D3371DFC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7CB216-28D6-4629-B2A9-76D3371DFC55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5ECC67-1F7E-4F26-A189-94D1F6C0AAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5ECC67-1F7E-4F26-A189-94D1F6C0AAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5ECC67-1F7E-4F26-A189-94D1F6C0AAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5ECC67-1F7E-4F26-A189-94D1F6C0AAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
