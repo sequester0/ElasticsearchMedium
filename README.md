@@ -1,0 +1,1 @@
+## You can access the medium article about this repo here: [Medium Article](https://medium.com/@ibrahimkerem.gumus/a-developers-guide-to-processing-elasticsearch-logs-with-net-from-query-to-html-table-a06785ca5082)
